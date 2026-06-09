@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: rhv83.gihub.io
+  baseUrl: rhv83.github.io
   ignorePatterns:
     - private
     - templates
